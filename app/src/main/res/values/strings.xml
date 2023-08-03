@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CurrentConverterMVVM</string>
+    <string name="amount">amount\n</string>
+    <string name="convert_rate">Convert Rate</string>
+
+    <string-array name="symbols">
+        <item>UZS: Uzbekistan Som</item>
+        <item>USD: United States Dollar</item>
+        <item>EUR: Euro</item>
+        <item>KRW: South Korean Won</item>
+    </string-array>
+</resources>
